@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+	<pbgroup>
+		<id>10</id>
+		<name>UCM</name>
+	</pbgroup>
+	<Contact>
+		<id>171</id>
+		<FirstName>Reception</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>1000</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>172</id>
+		<FirstName>Buffet</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>1001</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>173</id>
+		<FirstName>Dr.Cherif Office</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2000</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>174</id>
+		<FirstName>Dr.Cherif Meeting</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2001</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>175</id>
+		<FirstName>Dr.Cherif Conference</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2002</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>176</id>
+		<FirstName>Dr.Cherif Salon</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2003</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>177</id>
+		<FirstName>Dr.Sabry Office</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>3000</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>178</id>
+		<FirstName>Dr.Sabry Meeting</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>3001</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>179</id>
+		<FirstName>Dr.Sabry Conference</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>3002</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>180</id>
+		<FirstName>4000</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>Ms.Heba Office</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>181</id>
+		<FirstName>Mr.Abdallah Office</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>5000</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>182</id>
+		<FirstName>Mr.Abdallah Conference</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>5001</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>183</id>
+		<FirstName>Mr.Walid Office</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>5002</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>184</id>
+		<FirstName>Mr.Walid Conference</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>5003</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>185</id>
+		<FirstName>Accouting</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>5004</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>186</id>
+		<FirstName>HR</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>5005</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>191</id>
+		<FirstName>Mr.Mohamed Office</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6000</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>192</id>
+		<FirstName>Mr.Mohamed Conference</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6001</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>193</id>
+		<FirstName>IT</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6002</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>194</id>
+		<FirstName>Innovation</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6003</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>195</id>
+		<FirstName>Risk Advisory</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>6004</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>10</Group>
+		<Primary>0</Primary>
+	</Contact>
+</AddressBook>
